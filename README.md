@@ -77,4 +77,5 @@
 ## Ссылка на ИИ-ассистента в Telegram
 https://t.me/climat70_bot
 ```
-![Иллюстрация к проекту]([https://example.com/image.png](https://github.com/GressCod/AI-Assistant/blob/main/%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82.png?raw=true))
+## Иллюстрация к проекту
+https://github.com/GressCod/AI-Assistant/blob/main/screen.png
